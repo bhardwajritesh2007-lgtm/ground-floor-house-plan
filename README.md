@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 This project represents a *residential building floor plan* created using *AutoCAD*.  
-The drawing focuses on space planning, functional layout, and proper placement of rooms, doors, furniture, and parking areas.  
-It is suitable for academic submission, portfolio use, or basic residential planning reference.
+The drawing focuses on space planning, functional layout, and proper placement of rooms, doors, furniture, and parking areas. 
 
 ---
 
