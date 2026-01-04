@@ -47,19 +47,3 @@ Standard drafting symbols, layers, and annotations have been used to ensure clar
 - Structural Columns  
 - Internal Partitions  
 
----
-
-## 🎯 Purpose of the Project
-- Academic assignment submission  
-- Practice of AutoCAD drafting skills  
-- Understanding residential planning principles  
-- Portfolio enhancement for civil engineering students  
-
----
-
-## 🧑‍🎓 Suitable For
-- Diploma / Degree Civil Engineering Students  
-- Beginners learning AutoCAD  
-- Residential layout design practice  
-
----
