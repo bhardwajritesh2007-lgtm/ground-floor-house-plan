@@ -21,9 +21,8 @@ Standard drafting symbols, layers, and annotations have been used to ensure clar
 - 🪑 Living and dining area planning  
 - 🛏️ Room-wise space allocation  
 - 🧱 Column positions highlighted for structural reference  
-![Uploading Screenshot 2026-01-04 231317.png…]()
 
----
+<img width="1920" height="1080" alt="Screenshot 2026-01-04 231317" src="https://github.com/user-attachments/assets/f41ee038-ccd8-49ec-b385-4d053fe1bd2d" />
 
 ## 🧰 Software Used
 - *AutoCAD* (2D Drafting)
